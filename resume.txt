@@ -1,0 +1,7 @@
+Yahan Liu
+Courses :- Programming Languages and Techniques, Data Mining, Machine Learning
+Projects
+Lenovo AI Lab, Beijing, China - Data science internship, transferred the format of audio file. Used Prophet model to predict the express quantity in next three months.
+Peltast Inc., Chicago, USA - Intern, parsed data from coinmarket.com (using python). Used ARIMA model to predict the cryptocurrency value change in next month. 
+------------------------------------
+liuyahan@seas.upenn.edu

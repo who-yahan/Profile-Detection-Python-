@@ -1,4 +1,4 @@
-# Profile-Detection-Python-
+# Profile-Detection-Python
 
 Profile Detection
 
